@@ -7,7 +7,7 @@
 //
 
 import  UIKit
-class ToDo{
+class ToDo {
     var name = ""
     var important = false
 }
